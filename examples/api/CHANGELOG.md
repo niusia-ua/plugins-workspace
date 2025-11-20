@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.35]
+
+### Dependencies
+
+- Upgraded to `dialog-js@2.5.0`
+- Upgraded to `log-js@2.8.0`
+- Upgraded to `barcode-scanner-js@2.4.3`
+- Upgraded to `nfc-js@2.3.4`
+- Upgraded to `updater-js@2.10.0`
+
 ## \[2.0.34]
 
 ### Dependencies

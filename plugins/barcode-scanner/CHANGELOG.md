@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.4.3]
+
+- [`631d0e25`](https://github.com/tauri-apps/plugins-workspace/commit/631d0e256a37946b6a9102ca35511abfbebb92c5) ([#2440](https://github.com/tauri-apps/plugins-workspace/pull/2440)) Fix the `cameraView` is not removed after scanning in iOS.
+
 ## \[2.4.2]
 
 - [`93426f85`](https://github.com/tauri-apps/plugins-workspace/commit/93426f85120f49beb9f40222bff45185a32d54a9) Fixed an issue that caused docs.rs builds to fail. No user facing changes.
